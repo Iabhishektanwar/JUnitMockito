@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Jan 25 17:56:13 IST 2024:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.16.1.1 - (1901046): instance a816c00e-018d-4095-c5f2-0000020f23c0 
+on database directory memory:/Users/abhishektanwar/eclipse-workspace/Projects/JUnitMockito/d213f5ee-3a37-4722-8d57-eb46f2fd230c with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@1055e4af 
+Loaded from file:/Users/abhishektanwar/.m2/repository/org/apache/derby/derby/10.16.1.1/derby-10.16.1.1.jar
+java.vendor=JetBrains s.r.o.
+java.runtime.version=17.0.9+7-b1087.3
+user.dir=/Users/abhishektanwar/eclipse-workspace/Projects/JUnitMockito
+os.name=Mac OS X
+os.arch=aarch64
+os.version=14.3
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
